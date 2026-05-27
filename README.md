@@ -23,6 +23,6 @@ https://future-fs-01-n2hm.onrender.com
 
 ## Author
 Prem  
-GitHub: https://github.com/Prem-0007
+GitHub: https://github.com/stella2exa
 
-© 2026 Prem
+©2026 chandrika
